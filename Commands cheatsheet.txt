@@ -1,1 +1,2 @@
-There are different commands"
+There are different commands
+Each command is very useful
