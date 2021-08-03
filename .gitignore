@@ -7,7 +7,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions Hello World
+# C extensions 
 *.so
 
 # Distribution / packaging
