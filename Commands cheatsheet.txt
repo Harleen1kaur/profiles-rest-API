@@ -1,1 +1,1 @@
-There are different commands in github
+There are different types of commands in github
